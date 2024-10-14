@@ -3,7 +3,7 @@ secondary_name: "庄梓敬"
 navbar_name: "Zijing Zhuang"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+#- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
   name: PhD. Student in Math
 
 
@@ -29,23 +29,23 @@ short_bio: >-
   </p>
 
 
-portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+portrait_url: https://math.wustl.edu/files/math/styles/testimonial_desktop/public/Zijing%20Zhuang_Math.jpg?itok=4XLctfgt
+#portrait_caption: >-
+ # Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
 - name: Washington University in St.Louis
-  logo: /assets/images/badges/MIT_Social_circle.png
+  # logo: /assets/images/badges/MIT_Social_circle.png
   position: >- 
     Department of Mathematics<br/>
     Ph.D. Student in Mathematics
   date: Sep. 2022 - present
 - name: Northeastern University(Boston)
-  logo: /assets/images/badges/PKU_red.png
+  # logo: /assets/images/badges/PKU_red.png
   position: M.S. in Applied Math
   date: Sep. 2020 - Jul. 2022
 - name: Jilin University
-  logo: /assets/images/badges/PKU_red.png
+  # logo: /assets/images/badges/PKU_red.png
   position: B.S. in Information and Computing Science
   date: Sep. 2015 - Jul. 2019
 
