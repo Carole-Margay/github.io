@@ -3,7 +3,7 @@ secondary_name: "庄梓敬"
 navbar_name: "Zijing Zhuang"
 
 positions:
-#- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- logo: https://th.bing.com/th?id=ODL.3996ad7b2397edda8c9167b95f1ac933&w=100&h=100&c=12&pcl=faf9f7&o=6&dpr=2&pid=13.1
   name: PhD. Student in Math
 
 
@@ -35,21 +35,21 @@ portrait_url: https://math.wustl.edu/files/math/styles/testimonial_desktop/publi
 
 education:
 - name: Washington University in St.Louis
-  # logo: /assets/images/badges/MIT_Social_circle.png
+  logo: https://th.bing.com/th?id=ODL.3996ad7b2397edda8c9167b95f1ac933&w=100&h=100&c=12&pcl=faf9f7&o=6&dpr=2&pid=13.1
   position: >- 
     Department of Mathematics<br/>
     Ph.D. Student in Mathematics
   date: Sep. 2022 - present
 - name: Northeastern University(Boston)
-  # logo: /assets/images/badges/PKU_red.png
+  logo: https://th.bing.com/th?id=ODL.da60bf5b66f6495096466d6d298e006b&w=100&h=100&c=12&pcl=faf9f7&o=6&dpr=2&pid=13.1
   position: M.S. in Applied Math
   date: Sep. 2020 - Jul. 2022
 - name: Jilin University
-  # logo: /assets/images/badges/PKU_red.png
+  logo: https://en.wikipedia.org/wiki/Jilin_University#/media/File:Jilin_University_logo.png
   position: B.S. in Information and Computing Science
   date: Sep. 2015 - Jul. 2019
 
-# experience:
+teaching:
 # - name: Peking University
 #   logo: /assets/images/badges/PKU_red.png
 #   position: Research Intern
