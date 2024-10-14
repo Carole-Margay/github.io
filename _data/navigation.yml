@@ -5,3 +5,5 @@ pages:
   url: /publications
 - name: Project
   url: /showcase
+- name: Personal
+  url: /
