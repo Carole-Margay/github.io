@@ -1,6 +1,6 @@
 ---
 title: "Me riding bicycle on campus"
-excerpt: "This photo was taken in the Fall 2023 by a WashU photographer. <br/><img src='/images/mebicycle.jpg'>"
+excerpt: "This photo was taken in the Fall 2023 by a WashU photographer. <br/><img src='https://carole-margay.github.io/GitHub.io/images/mebicycle.jpg'>"
 collection: portfolio
 ---
 <img src='https://carole-margay.github.io/GitHub.io/images/mebicycle.jpg'>
