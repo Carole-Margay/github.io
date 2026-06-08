@@ -9,37 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+[Pdf version](CV_ZZJ_202667.pdf) updated 2026-06-07.
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Ph.D candidate in Mathematics, Washington University in St.Louis  University, 2027 (expected)
+* M.A. in Mathematics, Washington University in St. Louis, 2024
+* MS in Applied Mathematics, Northeastern University(Boston), 2022 
+* B.S. in Information and Computing Science, Jilin University, 2019
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -59,6 +37,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and volunteering
 ======
-* Currently signed in to 43 different slack teams
+* **Women in Math Graduate Student Chapter**  Managing social media, creating posters, and helping to organize events (Spring 2025).
+* **Sonia Kovalevsky Day** Volunteer in helping with the activities (Spring 2024, Spring 2025).
+*  **Western Algebraic Geometry Symposium (WAGS)** Served as a volunteer (Nov 2023).
