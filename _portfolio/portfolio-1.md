@@ -3,7 +3,7 @@ title: "Me riding bicycle on campus"
 excerpt: "This photo was taken in the Fall 2023 by a WashU photographer. <br/><img src='/images/mebicycle.jpg'>"
 collection: portfolio
 ---
-<img src='/images/mebicycle.jpg'>
+<img src='https://carole-margay.github.io/GitHub.io/images/mebicycle.jpg'>
 
 This photo was taken in the Fall 2023 by a WashU photographer, first posted on Instagram, and then used in this [essay](https://sustainability.wustl.edu/danforth-campus-named-bicycle-friendly-university-at-gold-level/)..
 
